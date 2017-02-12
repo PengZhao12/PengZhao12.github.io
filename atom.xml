@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://pengzhao12.github.io/atom.xml" rel="self"/>
+  <link href="http://pengzhao12.github.io/"/>
+  <updated>2017-02-13T01:50:35+08:00</updated>
+  <id>http://pengzhao12.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zhao1]]></title>
+    <link href="http://pengzhao12.github.io/blog/2017/02/13/zhao1/"/>
+    <updated>2017-02-13T00:00:00+08:00</updated>
+    <id>http://pengzhao12.github.io/blog/2017/02/13/zhao1</id>
+    <content type="html"><![CDATA[<h1>hello world</h1>
+
+<h3>多么开心，为自己喜欢的生活而活</h3>
+
+<p>2/13/2017 1:08:48 AM</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zhao]]></title>
+    <link href="http://pengzhao12.github.io/blog/2017/02/13/zhao/"/>
+    <updated>2017-02-13T00:00:00+08:00</updated>
+    <id>http://pengzhao12.github.io/blog/2017/02/13/zhao</id>
+    <content type="html"><![CDATA[<h1>hello world</h1>
+
+<h3>多么开心，为自己喜欢的生活而活</h3>
+
+<p>2/13/2017 1:08:48 AM</p>
+]]></content>
+  </entry>
+  
+</feed>
